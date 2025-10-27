@@ -1,5 +1,5 @@
 # Data Engineering Assignment
-This project builds a full-fledged data pipeline that pulls movie details from the TMDb API, processes the information, and stores it in Snowflake. It leverages several AWS services—including Lambda, S3, SNS, and SQS—to automate and streamline the entire workflow
+This project builds a full-fledged data pipeline that pulls book details from the Moviedb, processes the information, and stores it in Snowflake. It leverages several AWS services—including Lambda, S3, SNS, and SQS—to automate and streamline the entire workflow
 
 
 ## 1. Data Extraction with AWS Lambda
