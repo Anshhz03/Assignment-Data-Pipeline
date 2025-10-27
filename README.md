@@ -9,7 +9,7 @@ Title
 Price
 <img width="1363" height="616" alt="Screenshot 2025-10-27 125700" src="https://github.com/user-attachments/assets/5566346b-2929-4d35-8671-a6de13b4174f" />
 
-## 2. Storing Extracted Data in Amazon S3
+## 2. Storing Extracted Data in Amazon S3 Bucket
 The extracted data is saved as CSV files in an Amazon S3 bucket. 
 <img width="1334" height="606" alt="image" src="https://github.com/user-attachments/assets/387bd060-e52e-4940-9aba-8acd6b8c6851" />
 
